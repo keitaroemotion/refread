@@ -1,0 +1,10 @@
+this refread application reads your URLs in your memo file
+and automatically opens those.
+
+How to use:
+
+just locate this file to /usr/local/bin
+
+and type:
+
+$refread read [your memo file location]
